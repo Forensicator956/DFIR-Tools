@@ -1,2 +1,3 @@
 # DFIR-Tools
-Central Repo for tools as I learn them
+
+I inteded this to be a simple central repo for tools and techniques as I learn them.
